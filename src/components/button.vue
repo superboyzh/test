@@ -4,6 +4,7 @@
     <el-button type="warning">aaa</el-button>
     <el-button type="primary">aaa</el-button>
     <el-button type="success">aaa</el-button>
+    <el-button type="success">aaa</el-button>
   </el-card>
 </template>
 

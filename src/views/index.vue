@@ -3,6 +3,7 @@
     <!-- <h2 v-if="a">你好啊</h2> -->
     <h2 :style="{ opacity }">欢迎学习Vue</h2>
     <button @click="stop">点我停止</button>
+    <button @click="stop">点我停止</button>
   </div>
 </template>
 
